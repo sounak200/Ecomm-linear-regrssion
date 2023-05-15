@@ -59,19 +59,6 @@
 
 # ****The company should focus on the mobile app!****
 
-# Visualizations -
-
-Seaborn joint plot - 
-
-![download.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/739ebfd8-f6a9-4eec-8c08-ee90387bd106/download.png)
-
-Seaborn hex joint plot - 
-
-![download.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b9d122a3-36dd-4016-bdb6-9eb54464cf91/download.png)
-
-Seaborn heatmap - 
-
-![download.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/10bad1df-0895-46f5-a319-81839155af5a/download.png)
 
 Seaborn linear model plot - 
 
