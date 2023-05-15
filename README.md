@@ -59,13 +59,3 @@
 
 # ****The company should focus on the mobile app!****
 
-
-Seaborn linear model plot - 
-
-![download.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3277f8b4-3138-46f7-99a6-4ccd213d61d7/download.png)
-
-Seaborn residual distribution plot - 
-
-![download.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/922559bf-5963-483e-a0d8-8933f881c4ff/download.png)
-
-Comparison of all features of the dataset
